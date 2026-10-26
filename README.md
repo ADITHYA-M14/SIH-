@@ -1,7 +1,7 @@
   # Smart India Hackathon Workshop
 # Date:26/10/2026
-## Register Number:212224040106
-## Name: GOKUL S
+## Register Number:212224230008
+## Name: Adithya M
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
